@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinghMalika
-- 👀 I’m interested in learning Salesforce 
-- 🌱 I’m currently learning  Salesforce Admin  Course
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at malika.sgh@gmail.com 
 
